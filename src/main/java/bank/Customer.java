@@ -11,7 +11,7 @@ public class Customer {
   public Customer(int id, String name, String username, String password, int accountId) {
     setId(id);
     setName(name);
-    setName(username);
+    setUsername(username);
     setPassword(password);
     setAccountId(accountId);
   }
